@@ -1,7 +1,6 @@
 __author__ = 'Tim Herman <tim@belg.be>'
 __coauthor__ = 'Mathias Teugels <mathias@codercpf.be>'
 
-import time
 import serial
 
 class Log365RF:
